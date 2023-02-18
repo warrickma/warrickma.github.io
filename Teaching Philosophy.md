@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Teaching
+title: Teaching Philosphy Statement
 description: My Teaching Activity at Cornell University
 image: assets/images/pic11.jpg
-home-sort-order: 2
+home-sort-order: 4
 nav-menu: true
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 title: Research
 image: assets/images/pic01.jpg
+home-sort-order: 1
 nav-menu: true
 ---
 

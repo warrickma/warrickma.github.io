@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 description: My Teaching Activity at Cornell University
 image: assets/images/pic11.jpg
-home-sort-order: 2
+home-sort-order: 3
 nav-menu: true
 ---
 
