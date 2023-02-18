@@ -1,7 +1,7 @@
 ---
 title: Outreach
 layout: page
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Outraech and Volunteer works I did at cornell'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
