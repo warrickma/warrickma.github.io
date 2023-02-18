@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Teaching
+description: My Teaching Activity at Cornell University
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
