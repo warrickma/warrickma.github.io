@@ -3,7 +3,7 @@ layout: page
 title: Teaching Philosphy Statement
 description: My Teaching Activity at Cornell University
 image: assets/images/pic11.jpg
-home-sort-order: 4
+home-sort-order: 5
 nav-menu: true
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: Outreach
+title: Volunteer
 layout: page
-description: 'Outraech and Volunteer works I did at cornell'
-image: assets/images/irv.jpeg
-home-sort-order: 3
+description: 'My volunteer Fire Fighter/EMT journey'
+image: assets/images/ff.JPG
+home-sort-order: 6
 nav-menu: true
 ---
 

@@ -14,9 +14,12 @@ img {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		overflow: hidden;
 
 		img {
 			display: block;
+			width: 100%;
+			height: auto;
 		}
 
 		&.left,
