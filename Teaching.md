@@ -6,9 +6,47 @@ image: assets/images/cti.png
 home-sort-order: 1
 nav-menu: true
 ---
+<!-- Main -->
+<div id="main" class="alt">
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Teaching Philosophy Statement</h1>
+		</header>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<!-- Content -->
+<h2 id="content">Teaching in the age of social media and artificial intelligence</h2>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<br />
+<br />
+
+# [Teaching Philosophy Statement](/Teaching_philosophy.html)
+
+Take a look at my [teaching philosophy](/Teaching_philosophy.html) for more!
+<div markdown="1">
+    # Classes I have taught
+
+    ### The Department of Chemistry and Chemical Biology - Teaching Assistant
+    - **CHEM 3010** \| Advanced Physical Organic Chemistry - Lead Teaching Assistant  
+    - **CHEM 2510** \| Introduction to Experimental Organic Chemistry
+    - **CHEM 1560** \| General Chemistry I
+    ### Cornell Outdoor Education - Lead Instructor
+    - **Tree Climbing** \| Advanced Physical Organic Chemistry - Lead Teaching Assistant  
+    - **Caving** \| Introduction to Experimental Organic Chemistry - Teaching Assistant  
+    - **Backpacking in the Finger Lakes** \| General Chemistry I - Teaching Assistant
+    - **Crosscountry Skiing** \| General Chemistry I - Teaching Assistant 
+
+    # Cornell Center for Teaching Innovation (CTI) Lead Fellow
+
+    ### My role:
+    - **Facilitate one GET SET institute each semester** 
+    - **Develop and coordinate one institute or conference with a team of CTI fellows**
+    - **Coordinate one teaching event in my department/field**
+    - **Organize bi-weekly learning community meetings with other CTI fellows**
+    ### Workshops I have hosted:  
+    - **Designing Assessment of Student Learning**\| Spring 2023
+    - **Writing a Teaching Statement**\| Fall 2022
+    - **Supporting Student Learning**\| Fall 2021
+</div>

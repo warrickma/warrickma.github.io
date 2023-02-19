@@ -3,7 +3,7 @@ title: Volunteer
 layout: page
 description: 'My volunteer Fire Fighter/EMT journey'
 image: assets/images/ff.JPG
-home-sort-order: 6
+home-sort-order: 5
 nav-menu: true
 ---
 

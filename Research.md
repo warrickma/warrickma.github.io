@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Research
+description: My Research Work at Cornell University
 image: assets/images/biofoundry.png
 home-sort-order: 2
-nav-menu: true
+published: true
 ---
 
 <!-- Main -->
@@ -47,23 +48,27 @@ nav-menu: true
 <!-- Papers and Patents -->
 <section id="papers" class="spotlights">
 	<section>
-        <img src="{% link assets/Publication/image/nbpo.png %}" alt="" data-position="center center" />
+        <img src="{% link assets/Publication/image/nbpo.jpg %}" alt="" data-position="center center" style="width: 50%; height: 40%;" />
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Cytocompatible, Transparent, and Clickable Resin for 3D Printing. (Submitted to Bioactive Materials)</h3>
+                    <h3>Cytocompatible, Transparent, and Clickable <br> Resin for 3D Printing.</h3>
                 </header>
                 <p><b>Warrick Ma</b> & Yadong Wang</p>
                 <details>
                     <summary class='abstract'>Abstract</summary>
                     Stereolithography (SLA) has revolutionized the aerospace and automotive industry by rapidly prototyping irregularly shaped parts and tools on demand with high efficiency and resolution. In biomedical engineering, SLA has seen its nascent applications in areas such as tissue engineering and dentistry. All commercial SLA resins, however, have poor biocompatibility that prevents their broader acceptance in biomedical applications. For instance, the fabrication of bio-microfluidics, especially 3D organ-on-a-chip, still widely uses soft lithography and micro molding, although SLA would have been faster, cheaper, and have higher precision in the z-axis. This has prompted the advent of several thiol-ene resins with good biocompatibility and tunable mechanical properties. However, the lack of commercial interest in thiol-ene resins highlights the need for more research with a focus on scalability, affordability, and versatility. Herein, we report a metal-free ring-opening copolymerization (ROCOP) to produce an ABA block copolyester on a 30-gram scale, which is unprecedented in the field of metal-free ROCOP. The synthetic strategy uses affordable cyclic anhydrides and epoxides to chain extend polypropylene sebacate—a polyester synthesized via polycondensation. This bridges the long-standing dichotomy between ring-opening copolymerization and polycondensation and enables the scalable synthesis of a thiol-ene resin (BC1). The 3D-printed materials are cytocompatible as well as optically transparent and have a 25 μm resolution. Furthermore, we can vary the mechanical properties by controlling the block lengths in the triblock structure. We believe that BC1, and more importantly the synthesis platform, will accelerate the discovery of biocompatible resins urgently needed for organ-on-a-chip and other biomedical devices.
 				</details>
+				<br />
+				<ul class="actions">
+                    <li><a href="https://biofoundry.bme.cornell.edu/publications/" target="_blank" class="button"> Submitted to <em>Bioactive Materials</em> 2022.</a></li>
+                </ul>
             </div>
         </div>
 	</section>
     <section>
         <a href="https://doi.org/10.1021%2Facsomega.2c00272" target="_blank" class="image">
-            <img src="{% link assets/Publication/image/paps.png %}" alt="" data-position="center center" />
+            <img src="{% link assets/Publication/image/paps.jpeg %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
