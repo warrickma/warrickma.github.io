@@ -14,9 +14,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Cornell Astronomical Society</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Founded in 1972, the Cornell Astronomical Society (CAS) has run public observing nights at the Fuertes Observatory for nearly 50 years. During the observering night, members use the he historic 12" Irving Porter Church Refractor (finished in 1922) as well as many other telescopes to showcase celestrial objects to the public. Occasiaonlly, CAS runs private tours for girl scout groups, K-12 groups, and Cornell students groups</p>
+		<p>In addition to public outreach and open house, I am also trained to use various telescopes and astrophotography equipments. Here are some of my works:</p>
 	</div>
 </section>
 
