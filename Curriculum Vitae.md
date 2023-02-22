@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-image: assets/images/pic11.jpg
+#image: assets/images/pic11.jpg
 home-sort-order: 4
 nav-menu: true
 ---
