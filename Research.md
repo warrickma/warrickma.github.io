@@ -22,30 +22,26 @@ published: true
 <p>The synthesis of biocompatible, acrylate-free 3D printing resins that is based on a ABA triblobk copolyester. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Major Unmet Need</h3>
-		<p>In biomedical engineering, stereolithography (SLA) has seen its nascent applications in areas such as tissue
-		engineering and dentistry. All commercial SLA resins, however, use acrylates and have poor biocompatibility that prevents
-		their broader acceptance in biomedical applications.</p>
+		<h3>A Major Unmet Need</h3>
+		<p>EU parliament voted to phase out animal testing in 2021. In ths US, FDA commits to explore alternative methods that will replace animal testing in drug development. <b>Organ-on-a-chip is a promising alternative</b> because it mimics human physiology well in a highly controlled in vivo environment. Current fabrication of organ-on-a-chip, however, has extremely poor y resolution, and is impractical to be automated to meet the increasing demand. Further, it almost exclusiively uses polydimethylsiloxane (PDMS). Although PDMS is biocompatible, its hydrophobicity and chemical inertness make it incompatible with many small-molecule test compounds and extrmemely difficult to functionalize. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Thiol-ene photopolymer to the rescue</h3>
-		<p>Thiol and alkene undergo facile photocrosslinking under UV with efficiency similar to that of acrylate-system. To minimize the amount of leachable small molecules, we synthesized a polyester via ring-opening copolymerization (ROCOP) of propylene epoxide, norborene anhydride (CPMA), and a custom chain transfer agent (CTA). The triblock architechture allows us to tune the mechnical properties by adjusting the length of each block. The absence of acrylates and the use of metal-free boron catalyst improve the resin's biocompatibility. Further, ROCOP catalyzed by metal-free catalyst is compatible with other commercially available CTA, thus affording an arrary of photopolymers with various chemical properties.</p>
+		<h3>Thiol-ene Photopolymers to the Rescue</h3>
+		<p>3D printing can revolutionize organ-on-a-chip fabrication by enabling automated production of 3D object with highly complex features. Unfortunately,the current market is saturated with acrylate-based resins with poor biocompatibility. Acrylates attack DNA and proteins, therefore decimating in vitro cell populations in a few hours. Thiol-ene photopolymers are acrylate-free thus more biocompatible. We thereby synthesized photopolymers via ring-opening copolymerization (ROCOP) of propylene epoxide, norborene anhydride (CPMA), and a custom chain transfer agent (CTA). The triblock architechture allows us to tune the mechnical properties by adjusting the length of each block. </p>
 	</div>
+	<span class="image fit"><img src="{% link assets/images/outline.jpg %}" alt="" /></span>
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>A promising candidate in SLA of microfluidics</h3>
-		<p>SLA is poisted to revolutionzned the fabrication of microfluidics</p>
+	<div class="6u 12u$(small)">
+		<h3>Opportunites for Commercialization</h3>
+		<p>Currently, I am applying for Ignite Fellow for New Ventures at Cornell University. The goal of the program is to build strong high-value new businesses, grow entrepreneur scientists and engineers, advance technology commercialization, and enrich Cornell’s venture ecosystem. This program will give me the necessary funding and network to explore the commercial prospects of my invention. ROCOP's compatibility with many CTAs will afford mateirals with tunable mechanical and physical properties, thus allowing us to target different market segments and applications. I envision my invention to not only penetrate the organ-on-a-chip market, but provide versatile biocomaptible resins to the broader biomedical engineering community.</p>
 	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<div class="6u$ 12u$(small)">
+		<h3></h3>
+		<p><img src="{% link assets/images/ignite.jpg %}"></p>
 	</div>
 </div>
 <!-- Papers and Patents -->
+<h2 id="content">Papers and Patents</h2>
 <section id="papers" class="spotlights">
 	<section>
         <img src="{% link assets/Publication/image/nbpo.jpg %}" alt="" data-position="center center" style="width: 50%; height: 40%;" />
@@ -88,54 +84,15 @@ published: true
             </div>
         </div>
 	</section>
+	<h4>The works above are convered under "Crosslinkable Functionalized Oligoesters and Polyesters, Methods of Making Same, and Uses Thereof" <b>Ma Y</b>, Ding X, Wang Y. Appl.#:PCT/US2022/050907. Filed:11/23/2022.</h4>
+</section>
 <!-- Image -->
-<h3>Image</h3>
-
-<h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+<h3>Programming Tools</h3>
+<p>I have developed automated workflows to plot mechanical testing data in R. Check out my <a href="https://github.com/warrickma">Github</a> for more!</p>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/thiols.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/tensile.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/cyclic.jpg %}" alt="" /></span></div>
 	</div>
-</div>
-
-<h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-
-<!-- Box -->
-<h3>Box</h3>
-<div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
-</div>
-
-<!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
-
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
-
-</div>
-</div>
-
-</div>
-</section>
-
 </div>
