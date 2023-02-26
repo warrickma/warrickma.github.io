@@ -13,7 +13,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Curriculum Vitae</h1>
-            <a href='/assets/WarrickMa_CV.pdf' target='_blank'>Download my cv</a>
+            <a href='/assets/WarrickMa_CV.pdf' target='_blank'>Download my full cv</a>
 		</header>
 
 <!-- Content -->
